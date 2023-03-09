@@ -1,6 +1,6 @@
 def substract(L1, L2):
     """
-    Retourne une nouvelle liste qui contient tous les éléments de L1 qui ne sont pas dans L2.
+    Bouarioua Mohamed cherif
     """
     result = []
     for element in L1:
